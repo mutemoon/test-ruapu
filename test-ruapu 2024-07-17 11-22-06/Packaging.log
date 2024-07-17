@@ -1,0 +1,116 @@
+2024-07-17 03:21:59 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x174f78640; archive(resolved)="<IDEArchive: 0x60000fbacae0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x174f78640; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x174f78390; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x174f78ee0; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x174f93af0; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x174f956c0; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x32ce70550; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x177831970; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x337778b70; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x174f13990; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000000f1240; teamID='QLS4R96AQ4', teamName='Shanghai Skyland Information Technology Co., Ltd.', teamType='Company', username='1036066414@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x177896ea0; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="(null)">
+	<IDEDistributionContext: 0x17570fcb0; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="(null)">
+	<IDEDistributionContext: 0x175755910; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="(null)">
+	<IDEDistributionContext: 0x175b37d60; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600005c03330>", team="(null)">
+	<IDEDistributionContext: 0x333fe0a60; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x1778d6e40; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x12b1e8d40; archive = "<IDEArchive: 0x60000fbacae0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x174f78640>
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionCopyItemStep
+2024-07-17 03:21:59 +0000  Running /usr/bin/ditto '-V' '/Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app' '/var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Root/Payload/test-ruapu.app'
+2024-07-17 03:21:59 +0000  >>> Copying /Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app 
+2024-07-17 03:21:59 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-07-17 03:21:59 +0000  2111 bytes for ./_CodeSignature/CodeResources
+2024-07-17 03:21:59 +0000  copying file ./test-ruapu ... 
+2024-07-17 03:21:59 +0000  98096 bytes for ./test-ruapu
+2024-07-17 03:21:59 +0000  copying file ./embedded.mobileprovision ... 
+2024-07-17 03:21:59 +0000  17872 bytes for ./embedded.mobileprovision
+2024-07-17 03:21:59 +0000  copying file ./Info.plist ... 
+2024-07-17 03:21:59 +0000  1296 bytes for ./Info.plist
+2024-07-17 03:21:59 +0000  copying file ./PkgInfo ... 
+2024-07-17 03:21:59 +0000  8 bytes for ./PkgInfo
+2024-07-17 03:21:59 +0000  /usr/bin/ditto exited with 0
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-07-17 03:21:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-07-17 03:21:59 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-07-17 03:21:59 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-07-17 03:21:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionSymbolsStep
+2024-07-17 03:21:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionAppThinningStep
+2024-07-17 03:21:59 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionArchThinningStep
+2024-07-17 03:21:59 +0000  Item /Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-07-17 03:21:59 +0000  Archs to thin for item /Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app are ["arm64e"]
+2024-07-17 03:21:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Root/Payload/test-ruapu.app/test-ruapu' '-verify_arch' 'arm64e'
+2024-07-17 03:21:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-07-17 03:21:59 +0000  Skipping architecture thinning for item "test-ruapu" because arch "arm64e" wasn't found
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionODRStep
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-07-17 03:21:59 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionCodesignStep
+2024-07-17 03:21:59 +0000  Entitlements for <IDEDistributionItem: 0x60000fb5c360; bundleID='com.wuyehao.test-ruapu', path='<DVTFilePath:0x600007218b00:'/Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000178e9c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000024c7600; name='Apple Development: 浩然 赵 (G82DA44264)', hash='B05518AD127D7C1C1FCEEA79B5400CAA50E9F84B', serialNumber='7B413DEABB532312CE91EFDF0913EA02', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-07-16 01:49:03 +0000''>', entitlements='{
+    "application-identifier" = "QLS4R96AQ4.com.wuyehao.test-ruapu";
+    "com.apple.developer.team-identifier" = QLS4R96AQ4;
+    "get-task-allow" = 1;
+}', teamID='QLS4R96AQ4', identifier='com.wuyehao.test-ruapu', executablePath='<DVTFilePath:0x600007260700:'/Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app/test-ruapu'>', hardenedRuntime='1'>'>: {
+    "application-identifier" = "QLS4R96AQ4.com.wuyehao.test-ruapu";
+    "com.apple.developer.team-identifier" = QLS4R96AQ4;
+    "get-task-allow" = 1;
+}
+2024-07-17 03:21:59 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-07-17 03:21:59 +0000  Entitlements for <IDEDistributionItem: 0x60000fb5c360; bundleID='com.wuyehao.test-ruapu', path='<DVTFilePath:0x600007218b00:'/Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000178e9c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000024c55c0; name='Apple Development: 浩然 赵 (G82DA44264)', hash='B05518AD127D7C1C1FCEEA79B5400CAA50E9F84B', serialNumber='7B413DEABB532312CE91EFDF0913EA02', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-07-16 01:49:03 +0000''>', entitlements='{
+    "application-identifier" = "QLS4R96AQ4.com.wuyehao.test-ruapu";
+    "com.apple.developer.team-identifier" = QLS4R96AQ4;
+    "get-task-allow" = 1;
+}', teamID='QLS4R96AQ4', identifier='com.wuyehao.test-ruapu', executablePath='<DVTFilePath:0x600007260700:'/Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app/test-ruapu'>', hardenedRuntime='1'>'> are: {
+    "application-identifier" = "QLS4R96AQ4.com.wuyehao.test-ruapu";
+    "com.apple.developer.team-identifier" = QLS4R96AQ4;
+    "get-task-allow" = 1;
+}
+2024-07-17 03:21:59 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fb5c360; bundleID='com.wuyehao.test-ruapu', path='<DVTFilePath:0x600007218b00:'/Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000178e9c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000024c5d40; name='Apple Development: 浩然 赵 (G82DA44264)', hash='B05518AD127D7C1C1FCEEA79B5400CAA50E9F84B', serialNumber='7B413DEABB532312CE91EFDF0913EA02', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-07-16 01:49:03 +0000''>', entitlements='{
+    "application-identifier" = "QLS4R96AQ4.com.wuyehao.test-ruapu";
+    "com.apple.developer.team-identifier" = QLS4R96AQ4;
+    "get-task-allow" = 1;
+}', teamID='QLS4R96AQ4', identifier='com.wuyehao.test-ruapu', executablePath='<DVTFilePath:0x600007260700:'/Users/zhr/Library/Developer/Xcode/Archives/2024-07-17/test-ruapu 2024-7-17, 11.21.xcarchive/Products/Applications/test-ruapu.app/test-ruapu'>', hardenedRuntime='1'>'> to: /var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/entitlements~~~aKYDiz
+2024-07-17 03:21:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'B05518AD127D7C1C1FCEEA79B5400CAA50E9F84B' '--entitlements' '/var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/entitlements~~~aKYDiz' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Root/Payload/test-ruapu.app'
+2024-07-17 03:21:59 +0000  /var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Root/Payload/test-ruapu.app: replacing existing signature
+2024-07-17 03:21:59 +0000  /var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Root/Payload/test-ruapu.app: signed app bundle with Mach-O thin (arm64) [com.wuyehao.test-ruapu]
+2024-07-17 03:21:59 +0000  /usr/bin/codesign exited with 0
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-07-17 03:21:59 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-07-17 03:21:59 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Root' '/var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Packages/test-ruapu.ipa'
+2024-07-17 03:21:59 +0000  >>> Copying /var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Root 
+2024-07-17 03:21:59 +0000  copying file ./Payload/test-ruapu.app/_CodeSignature/CodeResources ... 
+2024-07-17 03:21:59 +0000  2111 bytes for ./Payload/test-ruapu.app/_CodeSignature/CodeResources
+2024-07-17 03:21:59 +0000  copying file ./Payload/test-ruapu.app/test-ruapu ... 
+2024-07-17 03:21:59 +0000  98096 bytes for ./Payload/test-ruapu.app/test-ruapu
+2024-07-17 03:21:59 +0000  copying file ./Payload/test-ruapu.app/embedded.mobileprovision ... 
+2024-07-17 03:21:59 +0000  17872 bytes for ./Payload/test-ruapu.app/embedded.mobileprovision
+2024-07-17 03:21:59 +0000  copying file ./Payload/test-ruapu.app/Info.plist ... 
+2024-07-17 03:21:59 +0000  1296 bytes for ./Payload/test-ruapu.app/Info.plist
+2024-07-17 03:21:59 +0000  copying file ./Payload/test-ruapu.app/PkgInfo ... 
+2024-07-17 03:21:59 +0000  8 bytes for ./Payload/test-ruapu.app/PkgInfo
+2024-07-17 03:21:59 +0000  /usr/bin/ditto exited with 0
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-07-17 03:21:59 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-07-17 03:21:59 +0000  IDEDistributionItem init <DVTFilePath:0x6000073c9a80:'/var/folders/5b/z7_2v5j920x1jcz9xxycshw00000gn/T/XcodeDistPipeline.~~~ViHx3b/Root/Payload/test-ruapu.app'>
+2024-07-17 03:21:59 +0000  Processing step: IDEDistributionCreateManifestStep
